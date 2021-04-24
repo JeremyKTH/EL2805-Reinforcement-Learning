@@ -1,23 +1,16 @@
 # EL2805 Reinforcement Learning
 This is a repo for the course assignments of [DD2424 Deep Learning in Data Science](https://www.kth.se/student/kurser/kurs/EL2805?l=en) at KTH 2020. The code in this repo is mainly done in Python, GoogleColab and Jupyter Notebook.
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#Lab01">Lab01</a>
-      <ul>
-        <li><a href="#Problem01">Problem01</a></li>
-      </ul>
-      <ul>
-        <li><a href="#Problem02">Problem02</a></li>
-      </ul>
-      <a href="#Lab02">Lab02</a>
-      
+Table of contents
+=================
 
-  </ol>
-</details>
+<!--ts-->
+   * [Lab01](#Lab01)
+      * [Problem01](#Problem01)
+      * [Problem01](#Problem01)
+   * [Lab02](#Lab02)
+<!--te-->
+
 
 ## Lab01
 
