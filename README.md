@@ -15,17 +15,16 @@ This is a repo for the course assignments of [DD2424 Deep Learning in Data Scien
 
 ### Problem01
 
-Simple 1-layer neural network
+The Maze and the Random Minotaur
 
 ### Problem02
-* Test Accuracy: 51.44%
 
-2-layer neural network + Cyclical Learning Rates
+Robbing Banks with value and policy iteration
 
 ## Lab02
-* Test Accuracy: 53.33%
 
-k-layer neural network + Cyclical Learning Rates + Batch Normalisation
+Lunar Lander with Dueling Deep Q-Learning and Experience Replay
+
 
 <!-- CONTACT -->
 ## Contact
