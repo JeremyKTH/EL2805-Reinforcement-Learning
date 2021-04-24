@@ -13,6 +13,7 @@ This is a repo for the course assignments of [DD2424 Deep Learning in Data Scien
       <ul>
         <li><a href="#Problem02">Problem02</a></li>
       </ul>
+      <a href="#Lab02">Lab02</a>
       
 
   </ol>
