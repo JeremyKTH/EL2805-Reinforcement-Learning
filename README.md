@@ -14,28 +14,22 @@ This is a repo for the course assignments of [DD2424 Deep Learning in Data Scien
         <li><a href="#Problem02">Problem02</a></li>
       </ul>
       
-    </li>
 
   </ol>
 </details>
 
+## Lab01
 
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-In this project, A k-layers neural networks is designed with the implemention of He Initialisation, [Cyclical Learning Rates](https://arxiv.org/pdf/1506.01186.pdf), [Batch Normalisation](https://arxiv.org/pdf/1502.03167.pdf). The objective is to use these neural network models to classfy images from the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html).
-
-### Assignment01
-* Test Accuracy: 36.96%
+### Problem01
 
 Simple 1-layer neural network
 
-### Assignment02
+### Problem02
 * Test Accuracy: 51.44%
 
 2-layer neural network + Cyclical Learning Rates
 
-### Assignment03
+## Lab02
 * Test Accuracy: 53.33%
 
 k-layer neural network + Cyclical Learning Rates + Batch Normalisation
