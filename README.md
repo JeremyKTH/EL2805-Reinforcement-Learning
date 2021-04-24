@@ -1,8 +1,7 @@
 # EL2805 Reinforcement Learning
 This is a repo for the course assignments of [DD2424 Deep Learning in Data Science](https://www.kth.se/student/kurser/kurs/EL2805?l=en) at KTH 2020. The code in this repo is mainly done in Python, GoogleColab and Jupyter Notebook.
 
-Table of contents
-=================
+## Table of contents
 
 <!--ts-->
    * [Lab01](#Lab01)
