@@ -22,6 +22,8 @@ The Maze and the Random Minotaur
 Robbing Banks with value and policy iteration
 
 ## Lab02
+### Introduction
+This project implements the [LunarLander-v2](https://gym.openai.com/envs/LunarLander-v2/) from OpenAI's Gym with Pytorch. The goal is to land the lander safely in the landing pad with the Deep Q-Learning algorithm.
 
 Lunar Lander with Dueling Deep Q-Learning and Experience Replay
 
